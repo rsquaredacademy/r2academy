@@ -3,10 +3,9 @@
 r2academy
 =========
 
-Overview
---------
+> Easily install and load all Rsquared Academy packages in a single command.
 
-r2academy package is designed to make it easy to install and load Rsquared Academy packages in a single command.
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/r2academy)](https://cran.r-project.org/package=r2academy) [![Travis-CI Build Status](https://travis-ci.org/rsquaredacademy/r2academy.svg?branch=master)](https://travis-ci.org/rsquaredacademy/r2academy) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/rsquaredacademy/r2academy?branch=master&svg=true)](https://ci.appveyor.com/project/rsquaredacademy/r2academy) [![](https://cranlogs.r-pkg.org/badges/grand-total/olsrr)](https://cran.r-project.org/package=olsrr) ![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
 Installation
 ------------
