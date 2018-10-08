@@ -1,0 +1,12 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^README-.*\.png$
+^\.travis\.yml$
+^cran-comments\.md$
+^revdep$
+^docs$
+^_pkgdown\.yml$
+^codecov\.yml$
+^\.github$
+^LICENSE\.md$

@@ -1,0 +1,36 @@
+Package: r2academy
+Type: Package
+Title: Easily Install and Load Rsquared Academy Packages
+Version: 0.1.0
+Authors@R: person("Aravind", "Hebbali", email = "hebbali.aravind@gmail.com", role = c("aut", "cre"), 
+    comment = c(ORCID = "0000-0001-9220-9669"))
+Description: 'r2academy' is a set of packages developed at Rsquared Academy 
+    to make it easy for teaching and learning statistical techniques. This 
+    package is designed to make it easy to install and load multiple 
+    'r2academy' packages in a single step. Learn more about the packages at
+    <https://pkgs.rsquaredacademy.com>.
+Depends:
+    R(>= 3.3)
+Imports:
+    blorr,
+    cli,
+    crayon,
+    descriptr,
+    dplyr,
+    inferr,
+    magrittr,
+    olsrr,
+    purrr,
+    rfm,
+    rstudioapi,
+    tibble
+Suggests:
+    covr,
+    rmarkdown,
+    testthat
+License: MIT + file LICENSE
+URL: URL: https://pkgs.rsquaredacademy.com/, https://github.com/rsquaredacademy/r2academy
+BugReports: https://github.com/rsquaredacademy/r2academy/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
