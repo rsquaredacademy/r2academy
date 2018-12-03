@@ -23,7 +23,8 @@ Imports:
     purrr,
     rfm,
     rstudioapi,
-    tibble
+    tibble,
+    vistributions
 Suggests:
     covr,
     rmarkdown,

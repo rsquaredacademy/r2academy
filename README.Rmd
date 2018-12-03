@@ -23,9 +23,8 @@ knitr::opts_chunk$set(
 
 ## Installation
 
-You can install the development version of r2academy from [GitHub](https://github.com) with:
-
 ``` r
+# Install development version from GitHub
 # install.packages("devtools")
 devtools::install_github("rsquaredacademy/r2academy")
 ```
@@ -39,4 +38,5 @@ devtools::install_github("rsquaredacademy/r2academy")
 - [descriptr](https://descriptr.rsquaredacademy.com)
 - [blorr](https://blorr.rsquaredacademy.com)
 - [inferr](https://inferr.rsquaredacademy.com)
+- [vistributions](https://vistributions.rsquaredacademy.com)
 
