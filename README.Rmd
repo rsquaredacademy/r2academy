@@ -39,4 +39,4 @@ devtools::install_github("rsquaredacademy/r2academy")
 - [blorr](https://blorr.rsquaredacademy.com)
 - [inferr](https://inferr.rsquaredacademy.com)
 - [vistributions](https://vistributions.rsquaredacademy.com)
-
+- [rbin](https://rbin.rsquaredacademy.com)

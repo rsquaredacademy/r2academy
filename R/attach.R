@@ -1,4 +1,4 @@
-core <- c("olsrr", "descriptr", "rfm", "blorr", "inferr", "vistributions")
+core <- c("olsrr", "descriptr", "rfm", "blorr", "inferr", "vistributions", "rbin")
 
 core_loaded <- function() {
   search <- paste0("package:", core)
